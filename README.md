@@ -1,1 +1,1 @@
-# hridesh
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C715&center=true&width=435&lines=Hey!+My+name+is++Hridesh.;++I+am+learning+web+development+%3A)" alt="Typing SVG" /></a>
