@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Atlas, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [hrideshsapkota.com.np](hrideshsapkota.com.np)
+- 👨‍💻 All of my projects are available at [https://hrideshsapkota.com.np](hrideshsapkota.com.np)
 
 - 📝 I regularly write articles on [https://hrideshsapkota.com.np/blog](https://hrideshsapkota.com.np/blog)
 
