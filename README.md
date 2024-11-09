@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [personal portfolio.](https://github.com/hridesh94/Atlas)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Tailwind CSS**
+- 🌱 I’m currently learning **Solidity, Web 3.0, HyperLedgerFabric, HTML, CSS, JS, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://hrideshsapkota.com.np](hrideshsapkota.com.np)
 
